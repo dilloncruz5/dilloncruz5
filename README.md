@@ -58,9 +58,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dilloncruz5&show_icons=true&theme=tokyonight"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilloncruz5&layout=compact&theme=tokyonight"/>
@@ -69,8 +66,18 @@
 ---
 
 ## 🔗 Connect With Me
-> Social links will be added soon  
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/dilloncruz5/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-dilloncruz5-blue?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/dillon.qb/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-dillon.qb-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:dilloncruz005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dilloncruz005%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 ---
 
 <p align="center">
