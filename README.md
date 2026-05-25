@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Dillon Cruz</h1>
+<h1 align="center">Hi, I'm Dillon Cruz</h1>
 <h3 align="center">Website Developer | SDE</h3>
 
 <p align="center">
-  <em>Python Web Development • Machine Learning Enthusiast</em>
+  <em>Python • Web Development • Machine Learning Enthusiast</em>
 </p>
 
 ---
