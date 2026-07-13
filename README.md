@@ -18,7 +18,7 @@
 
 ## Tech Stack
 
-### Programming Languages
+### Programming Language
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </p>
