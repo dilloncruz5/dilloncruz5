@@ -82,7 +82,7 @@ Production-ready multi-tenant financial management system.
 ---
 
 ### Accessibility Hub
-Accessibility toolkit with Text-to-Speech, Speech-to-Text, Braille support and vision aids.
+Accessibility toolkit with - Sign Language-to-Text, Text-to-Speech, Speech-to-Text, Braille support and vision aids.
 
 **Tech:** React • JavaScript • HTML • CSS
 
