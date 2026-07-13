@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Dillon Cruz</h1>
-<h3 align="center">Website Developer | SDE</h3>
+<h1 align="center">Hi, I'm Dillon Cruz 👋</h1>
+<h3 align="center">Website Developer | Software Development Engineer (SDE)</h3>
 
 <p align="center">
   <em>Python • Web Development • Machine Learning Enthusiast</em>
@@ -9,27 +9,31 @@
 
 ## 👨‍💻 About Me
 
--  Website Developer & Frontend Engineer  
--  Software Development Engineer (SDE)  
--  Web Development  
--  Exploring Machine Learning & AI  
+- 💻 Website Developer
+- 🚀 Aspiring Software Development Engineer (SDE)
+- 🌐 Passionate about Web Development
+- 🤖 Exploring Machine Learning & AI
 
 ---
 
 ## 🧠 Tech Stack
 
+### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
+
 ### 🌐 Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 </p>
 
-### 🐍 Backend & Python
+### ⚙️ Backend
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 </p>
 
@@ -49,16 +53,17 @@
 
 ---
 
-## Projects
+## 🚀 Projects
 
+Coming Soon...
 
 ---
 
 ## 📊 GitHub Stats
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilloncruz5&layout=compact&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dilloncruz5&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilloncruz5&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -69,15 +74,18 @@
   <a href="https://www.linkedin.com/in/dilloncruz5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-dilloncruz5-blue?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="https://www.instagram.com/dillon.qb/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-dillon.qb-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
+
   <a href="mailto:dilloncruz005@gmail.com">
     <img src="https://img.shields.io/badge/Email-dilloncruz005%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
 ---
 
 <p align="center">
-  <em>“Code. Learn. Build. Improve.”</em>
+  <em>"Code. Learn. Build. Improve."</em>
 </p>
