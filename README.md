@@ -22,15 +22,13 @@
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
 </p>
 
 ### Frontend
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 </p>
 
@@ -59,80 +57,34 @@
 
 ## Projects
 
-### Bao Bao Website
+<h3>Bao Bao Website</h3>
 
-<a href="https://github.com/dilloncruz5/baobao-web">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dilloncruz5&repo=baobao-web&theme=tokyonight"/>
+<a href="https://baobao-web.vercel.app/">
+    <img src="images/baobao.png" width="900">
 </a>
 
-Modern restaurant franchise website built with React and Vite.
-
-**Tech Stack:** React • Vite • Tailwind CSS • EmailJS
-
-**Repository:** https://github.com/dilloncruz5/baobao-web
-
-**Live Demo:** https://baobao-web.vercel.app/
+<p>
+Modern restaurant franchise website built using React, Vite and Tailwind CSS.
+</p>
 
 ---
+### Accessibility Hub
+Accessibility toolkit with Text-to-Speech, Speech-to-Text, Braille support and vision aids.
+
+**Tech:** React • JavaScript • HTML • CSS
+
+🔗 Repository: https://github.com/dilloncruz5/accessibility-hub
 
 ### Production Finance App
-
-<a href="https://github.com/dilloncruz5/multi-tenant-expense-management-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dilloncruz5&repo=multi-tenant-expense-management-system&theme=tokyonight"/>
-</a>
-
 Production-ready multi-tenant financial management system.
 
-**Backend**
-- Node.js
-- Express
-- TypeScript
-- PostgreSQL
-- Prisma ORM
-- JWT
-- Zod
+**Tech:** Next.js • Node.js • Express • PostgreSQL • Prisma • TypeScript
 
-**Frontend**
-- Next.js 14
-- React Query
-- Tailwind CSS
-- React Hook Form
-- Axios
+🔗 Frontend: https://multi-tenant-expense-management-sys.vercel.app/login
 
-**Repository:** https://github.com/dilloncruz5/multi-tenant-expense-management-system
+🔗 Backend: https://multi-tenant-expense-management-system.onrender.com/
 
-**Frontend:** https://multi-tenant-expense-management-sys.vercel.app/login
-
-**Backend API:** https://multi-tenant-expense-management-system.onrender.com/
-
----
-
-### Accessibility Hub
-
-<a href="https://github.com/dilloncruz5/accessibility-hub">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dilloncruz5&repo=accessibility-hub&theme=tokyonight"/>
-</a>
-
-Modern suite of digital accessibility tools for an inclusive web.
-
-**Features**
-- Text-to-Speech
-- Speech-to-Text
-- Braille Support
-- Keyboard Navigation
-- Vision Aids
-- Light & Dark Modes
-
-**Repository:** https://github.com/dilloncruz5/accessibility-hub
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dilloncruz5&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilloncruz5&layout=compact&theme=tokyonight"/>
-</p>
+🔗 Repository: https://github.com/dilloncruz5/multi-tenant-expense-management-system
 
 ---
 
