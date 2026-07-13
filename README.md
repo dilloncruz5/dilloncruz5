@@ -21,8 +21,6 @@
 ### Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
 ### Frontend
@@ -113,6 +111,31 @@ AI-powered financial assistant that helps users manage expenses, budgets, and fi
 **Repository:** https://github.com/dilloncruz5/FinFriend
 
 ---
+---
+
+### Accessibility Hub
+
+A modern web application that provides a suite of digital accessibility tools, making websites more inclusive and easier to use for everyone.
+
+<a href="https://github.com/dilloncruz5/Accessibility-Hub">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dilloncruz5&repo=Accessibility-Hub&theme=tokyonight" />
+</a>
+
+**Features**
+- Text-to-Speech
+- Speech-to-Text
+- Braille Support
+- Full Keyboard Navigation
+- Screen Reader Mode
+- High Contrast Themes
+- Font Scaling & Vision Aids
+- Light & Dark Mode
+
+**Tech Stack:** HTML • CSS • JavaScript • React
+
+**Repository:** https://github.com/dilloncruz5/Accessibility-Hub
+
+**Live Demo:** https://YOUR-VERCEL-LINK.vercel.app
 
 ## GitHub Stats
 
