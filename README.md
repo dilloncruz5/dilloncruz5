@@ -9,11 +9,10 @@
 
 ## 👨‍💻 About Me
 
-- 🌐 Website Developer & Frontend Engineer  
-- 💻 Software Development Engineer (SDE)  
-- 🐍 Python Web Development  
-- 🤖 Exploring Machine Learning & AI  
-- 🚀 Passionate about building clean, scalable, and user-friendly applications  
+-  Website Developer & Frontend Engineer  
+-  Software Development Engineer (SDE)  
+-  Web Development  
+-  Exploring Machine Learning & AI  
 
 ---
 
@@ -50,9 +49,8 @@
 
 ---
 
-## 🚀 Projects
-> Projects will be added soon  
-> (Web apps, Python projects, ML experiments, and open-source contributions)
+## Projects
+
 
 ---
 
