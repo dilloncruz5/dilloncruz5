@@ -57,23 +57,16 @@
 
 ## Projects
 
-<h3>Bao Bao Website</h3>
+### Bao Bao Website
+Modern responsive restaurant franchise website.
 
-<a href="https://baobao-web.vercel.app/">
-    <img src="images/baobao.png" width="900">
-</a>
+**Tech:** React • Vite • Tailwind CSS • EmailJS
 
-<p>
-Modern restaurant franchise website built using React, Vite and Tailwind CSS.
-</p>
+🔗 Live Demo: https://baobao-web.vercel.app/
+
+🔗 Repository: https://github.com/dilloncruz5/baobao-web
 
 ---
-### Accessibility Hub
-Accessibility toolkit with Text-to-Speech, Speech-to-Text, Braille support and vision aids.
-
-**Tech:** React • JavaScript • HTML • CSS
-
-🔗 Repository: https://github.com/dilloncruz5/accessibility-hub
 
 ### Production Finance App
 Production-ready multi-tenant financial management system.
@@ -88,6 +81,14 @@ Production-ready multi-tenant financial management system.
 
 ---
 
+### Accessibility Hub
+Accessibility toolkit with Text-to-Speech, Speech-to-Text, Braille support and vision aids.
+
+**Tech:** React • JavaScript • HTML • CSS
+
+🔗 Repository: https://github.com/dilloncruz5/accessibility-hub
+
+---
 ## Connect With Me
 
 <p align="center">
